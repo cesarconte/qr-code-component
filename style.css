@@ -12,7 +12,9 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  width: 1440px;
+  height: 960px;
+  margin: 0 auto;
 }
 
 .qr-code__container {
@@ -71,4 +73,11 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 375px) {
+ body {
+  width: 375px;
+  height: 812px;
+ } 
 }
