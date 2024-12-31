@@ -27,13 +27,11 @@ body {
   border-radius: 20px;
   padding-inline: 16px;
   padding-block: 16px 40px;
-  outline: 1px solid fuchsia;
 }
 
 .qr-code__container__img img {
   max-width: 100%;
   margin: 0;
-  outline: 1px solid brown;
   border-radius: 10px;
 }
 
@@ -45,7 +43,6 @@ body {
   gap: 16px;
   text-align: center;
   padding-inline: 16px;
-  outline: 1px solid red;
 }
 
 .qr-code__container__text h1 {
@@ -54,7 +51,7 @@ body {
   font-weight: 700;
   line-height: 120%;
   letter-spacing: 0px;
-  outline: 1px solid green;
+  color: hsla(218, 44%, 22%, 1);
 }
 
 .qr-code__container__text p {
@@ -63,5 +60,13 @@ body {
   font-weight: 400;
   line-height: 140%;
   letter-spacing: 0.2px;
-  outline: 1px solid orange;
+  color: hsla(216, 15%, 48%, 1);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
