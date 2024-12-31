@@ -1,7 +1,3 @@
-/* Import Outfit font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-
-/* Apply font to the body */
-body {
-    font-family: 'Outfit', sans-serif;
+html {
+  font-family: Outfit, sans-serif;
 }
