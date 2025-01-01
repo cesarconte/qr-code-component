@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "Frontend Mentor QR Code Component Challenge",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required - static HTML/CSS'"
+  },
+  "keywords": [
+    "frontend-mentor",
+    "css",
+    "html"
+  ],
+  "author": "Cesar Conte",
+  "license": "MIT"
+}
