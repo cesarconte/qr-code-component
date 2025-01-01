@@ -68,7 +68,7 @@ main {
 /* Card container */
 .qr-card {
   background-color: var(--card-background);
-  width: 320px;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
