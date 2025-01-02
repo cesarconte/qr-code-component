@@ -8,14 +8,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Component](./images/FrontendMentor_QR_code_component-screenshot.png)
+![QR Code Component](./images/screenshot.png)
 
 ![QR Code Component](./images/screenshot-mobile.png)
 
 ### Links
 
 - Live Site URL: [Add your live site URL here](https://qrcodecomponent-cc.netlify.app)
-- Solution URL: [Add your solution URL here](https://github.com/cesarconte/qr-code-component-main.git)
 
 ## My process
 
